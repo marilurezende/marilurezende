@@ -1,15 +1,13 @@
-# Olá, meu nome é Maria Luiza!
 
-## 👩‍💻 Estudante de Engenharia de Software | Experiência com Atendimento, Gestão e Processos
+# 👩‍💻 Software Engineering Student | Experience in Customer Service, Team Management, and Administrative Processes
 
-💻 Tenho estudado e desenvolvido projetos com linguagens como **Go** e **C**, além de utilizar ferramentas como **Git**, **GitHub**, **Figma** e **Visual Studio Code**. Também venho aprofundando meus conhecimentos em **lógica de programação**, **banco de dados** e **segurança da informação**.
 
-🗂️ Minha trajetória profissional inclui **atendimento ao público**, **gestão de equipe** e **otimização de processos administrativos** em ambiente educacional, o que fortaleceu minha capacidade de **organização, comunicação e foco em resultados**.
+![image](https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_1280.jpg)
 
-🌐 Inglês nível intermediário.
+##### 💻 I have been studying and working on projects using programming languages such as **Go** and **C**, along with tools like **Git**, **GitHub**, **Figma**, and **Visual Studio Code**. I'm also expanding my knowledge in **programming logic**, **databases**, and **information security**.
 
-🚀 Busco oportunidades como **Desenvolvedora Fullstack** ou **Analista de Sistemas**, com interesse em projetos nas áreas de **backend, engenharia de software, automação, análise de dados** e **segurança da informação**.
+##### 🗂️ My professional background includes **customer service**, **team management**, and **optimization of administrative processes** in an educational environment, which has strengthened my skills in **organization, communication, and results-driven work**.
 
-🔍 Aberta a **vagas de estágio e colaborações**, onde eu possa crescer profissionalmente e contribuir com soluções criativas e eficientes.
+##### 🌐 Intermediate English proficiency.
 
-[👉 Acesse meu LinkedIn](https://www.linkedin.com/in/maria-luiza-de-paula-rezende-21609b1b0/)
+##### [👉 Visit my LinkedIn](https://www.linkedin.com/in/maria-luiza-de-paula-rezende-21609b1b0/)
